@@ -20,6 +20,7 @@
 
 
 <h3>답안</h3>
+
 ```java
 class Solution {
     public int solution(String my_String) {
